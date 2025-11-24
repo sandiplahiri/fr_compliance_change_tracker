@@ -1,6 +1,6 @@
 # Compliance Change Tracker – HHS / CMS Regulatory Monitor
 
-This project iimplements an **agentic compliance assistant** that tracks and summarizes **US healthcare regulations** from the **Federal Register**, with a focus on:
+This project implements an **agentic compliance assistant** that tracks and summarizes **US healthcare regulations** from the **Federal Register**, with a focus on:
 
 - **HHS** (Department of Health and Human Services)
 - **CMS** (Centers for Medicare & Medicaid Services)
