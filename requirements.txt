@@ -1,0 +1,6 @@
+google-adk[a2a] 
+google-genai 
+python-dotenv
+uvicorn
+a2a-sdk
+requests
